@@ -1,4 +1,4 @@
 // changes done via feature branch
-// Original code of app.js
+// deleted old code
 
 // These are next1 changes made to feature 
